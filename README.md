@@ -1,2 +1,2 @@
-# Pronbabilistic-Graphical-Models
-PGM algorithm python implementation
+# Probabilistic-Graphical-Models
+Python implementation of Pearls Algorithm
